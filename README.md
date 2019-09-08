@@ -1,7 +1,8 @@
 # Azur Lane Tools
 A small tool for working with Azur Lane Lua and Asset Bundle. Still need a bit adjustment, but whatever. It's still usable.
 
-Not an autopatcher, maybe when I totally have free time, because the old autopatcher is still working and well. You can adjust the old autopatcher to the latest update by changing `CAB-android` to `CAB-android32` or `CAB-android64`, or by using regular expression, then compile it yourself. Don't know how? Then do a research and use **Google*. I didn't waste all of those years of learning for nothing.
+For the autopatcher, refer to the following repository:\
+https://github.com/k0np4ku/Archive-Azur-Lane-Scripts-Autopatcher
 
 Azur Lane has changed its scripting backend from **Mono** to **il2cpp**, meaning that you couldn't modify their `Assembly-CSharp.dll` and inject a third-party dll. However, you can still use hook method, which I've and will never try because I'm not a muh h4x0r. So, unless they actually care about cheaters, the old autopatcher will still works.
 
