@@ -2,7 +2,7 @@
 A small tool for working with Azur Lane Lua and Asset Bundle. Still need a bit adjustment, but whatever. It's still usable.
 
 For the autopatcher, refer to the following repository:\
-https://github.com/n0k0m3/Archive-Azur-Lane-Scripts-Autopatcher
+https://github.com/n0k0m3/Archive-Azur-Lane-Scripts-Autopatcher \
 (or archived repo from k0np4ku)
 
 Azur Lane has changed its scripting backend from **Mono** to **il2cpp**, meaning that you couldn't modify their `Assembly-CSharp.dll` and inject a third-party dll. However, you can still use hook method, which I've and will never try because I'm not a muh h4x0r. So, unless they actually care about cheaters, the old autopatcher will still works.
